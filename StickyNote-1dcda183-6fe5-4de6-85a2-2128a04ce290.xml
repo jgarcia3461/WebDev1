@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<StickyNote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Guid>1dcda183-6fe5-4de6-85a2-2128a04ce290</Guid>
+  <WindowX>26</WindowX>
+  <WindowY>26</WindowY>
+  <WindowWidth>300</WindowWidth>
+  <WindowHeight>300</WindowHeight>
+  <WindowPinned>false</WindowPinned>
+  <NoteColor>Blue</NoteColor>
+  <NoteTitle />
+  <NoteContent />
+  <NoteContentRtf>ZTF4eWRHWXhYR0Z1YzJsY1lXNXphV053WnpFeU5USmNkV014WEdoMGJXRjFkSE53WEdSbFptWXllMXhtYjI1MGRHSnNlMXhtTUZ4bVkyaGhjbk5sZERBZ1ZHbHRaWE1nVG1WM0lGSnZiV0Z1TzMxN1hHWXlYR1pqYUdGeWMyVjBNQ0JUWldkdlpTQlFjbWx1ZER0OWZYdGNZMjlzYjNKMFlteGNjbVZrTUZ4bmNtVmxiakJjWW14MVpUQTdYSEpsWkRJMU5WeG5jbVZsYmpJMU5WeGliSFZsTWpVMU8zMWNiRzlqYUZ4b2FXTm9YR1JpWTJoY2NHRnlaRnh3YkdGcGJseHNkSEp3WVhKY2FYUmhjREI3WEd4aGJtY3hNRE16WEdaek1qUmNaakpjWTJZd0lGeGpaakJjY1d4N1hHWXlJRnhzYVRCY2Nta3dYSE5oTUZ4ellqQmNabWt3WEhGc1hIQmhjbjBOQ24wTkNuMD0=</NoteContentRtf>
+  <LastChange>2019-09-13T15:06:27.8109436-04:00</LastChange>
+  <ReminderData>
+    <Period>Disabled</Period>
+    <Start>2019-09-13T15:06:27.7842643-04:00</Start>
+    <LastReminder>0001-01-01T00:00:00</LastReminder>
+    <RepeatHourly>1</RepeatHourly>
+    <RepeatDaily>0</RepeatDaily>
+    <RepeatWeekly>0</RepeatWeekly>
+    <WeeklyDays>None</WeeklyDays>
+  </ReminderData>
+</StickyNote>
